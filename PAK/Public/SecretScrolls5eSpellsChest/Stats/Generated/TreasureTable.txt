@@ -216,4 +216,6 @@ object category "I_OBJ_Scroll_MindBlank",1,0,0,0,0,0,0,0
 
 new treasuretable "SECRET_SCROLLS_5E_LEVEL9"
 new subtable "1,1"
+object category "I_OBJ_Scroll_PowerWordHeal",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_Scroll_PowerWordKill",1,0,0,0,0,0,0,0
