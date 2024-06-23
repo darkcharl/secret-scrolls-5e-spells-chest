@@ -36,6 +36,8 @@ object category "I_OBJ_Scroll_GreenFlameBlade",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_Gust",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_OBJ_Scroll_Infestation",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_Scroll_LightningLure",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_MagicStone",1,0,0,0,0,0,0,0
@@ -74,11 +76,15 @@ object category "I_OBJ_Scroll_Ceremony",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_ChaosBolt",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_OBJ_Scroll_DetectEvilAndGood",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_Scroll_DetectMagic",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_EarthTremor",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_FrostFingers",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Snare",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_TashasCausticBrew",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -88,9 +94,9 @@ object category "I_OBJ_Scroll_ZephyrStrike",1,0,0,0,0,0,0,0
 
 new treasuretable "SECRET_SCROLLS_5E_LEVEL2"
 new subtable "1,1"
-object category "I_OBJ_Scroll_AlterSelf",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_OBJ_Scroll_AganazzarsScorcher",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_AlterSelf",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_BorrowedKnowledge",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -116,8 +122,6 @@ object category "I_OBJ_Scroll_RimesBindingIce",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_ShadowBlade",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_OBJ_Scroll_Snare",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_OBJ_Scroll_SnillocsSnowballStorm",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_SummonBeast",1,0,0,0,0,0,0,0
@@ -131,6 +135,8 @@ new subtable "1,1"
 object category "I_OBJ_Scroll_WitherAndBloom",1,0,0,0,0,0,0,0
 
 new treasuretable "SECRET_SCROLLS_5E_LEVEL3"
+new subtable "1,1"
+object category "I_OBJ_Scroll_Antagonize",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_AshardalonsStride",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -148,6 +154,8 @@ object category "I_OBJ_Scroll_IntellectFortress",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_LifeTransference",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_OBJ_Scroll_MagicCircle",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_Scroll_MinuteMeteors",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_MotivationalSpeech",1,0,0,0,0,0,0,0
@@ -164,15 +172,25 @@ object category "I_OBJ_Scroll_WaterWalk",1,0,0,0,0,0,0,0
 
 new treasuretable "SECRET_SCROLLS_5E_LEVEL4"
 new subtable "1,1"
+object category "I_OBJ_Scroll_AuraOfLife",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_Scroll_CharmMonster",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_GuardianOfNature",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_RaulothimsPsychicLance",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_OBJ_Scroll_ShadowofMoil",1,0,0,0,0,0,0,0
+object category "I_OBJ_Scroll_ShadowOfMoil",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_StormSphere",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_SummonBeholderkin",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_SummonConstruct",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_SummonElemental",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_VitriolicSphere",1,0,0,0,0,0,0,0
 
 new treasuretable "SECRET_SCROLLS_5E_LEVEL5"
 new subtable "1,1"
@@ -183,6 +201,8 @@ new subtable "1,1"
 object category "I_OBJ_Scroll_FarStep",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_HolyWeapon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Maelstrom",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_NegativeEnergyFlood",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -195,6 +215,8 @@ new subtable "1,1"
 object category "I_OBJ_Scroll_SynapticStatic",1,0,0,0,0,0,0,0
 
 new treasuretable "SECRET_SCROLLS_5E_LEVEL6"
+new subtable "1,1"
+object category "I_OBJ_Scroll_TensersTransformation",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Scroll_TrueSeeing",1,0,0,0,0,0,0,0
 
